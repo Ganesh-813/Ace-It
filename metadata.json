@@ -1,0 +1,6 @@
+{
+  "name": "Ace It",
+  "description": "Build your streak. Ace your goals. Premium 3D social goal-streak and accountability app with shared streaks, Pearls, XP, and weekly contribution competitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
